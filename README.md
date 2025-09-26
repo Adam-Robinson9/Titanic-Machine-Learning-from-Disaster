@@ -4,7 +4,7 @@ An end-to-end machine learning project using the Kaggle Titanic dataset. The aim
 
 Built in Python with Jupyter Notebook, demonstrating applied data science skills including exploratory data analysis, preprocessing, machine learning and evaluation.
 
-View the full report: 
+View the full report: https://adam-robinson9.github.io/Titanic-Machine-Learning-from-Disaster/Titanic.html
 
 ## Features
 - Exploratory data analysis, including summary statistics and visualisations of survival trends.
